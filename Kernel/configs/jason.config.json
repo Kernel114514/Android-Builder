@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "CrDroid Kernel Xiaomi Note 3",
+      "name": "CrDroid_Kernel_Xiaomi_Note_3",
       "repo": "https://github.com/Kernel114514/android_kernel_xiaomi_jason",
       "branch": "15.0",
       "device": "jason",
