@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "CrDroid_Kernel_Xiaomi_Note_3",
-      "repo": "https://github.com/Kernel114514/android_kernel_xiaomi_jason",
-      "branch": "15.0",
-      "device": "jason",
-      "defconfig": "jason_defconfig"
+      "name": "katom",
+      "repo": "https://github.com/Kernel114514/kernel_xiaomi_pissarro",
+      "branch": "lineage-21",
+      "device": "atom",
+      "defconfig": "atom_defconfig"
     },
     "toolchains": [
       {
@@ -26,10 +26,10 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
+      "use": false,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   }
 ]
