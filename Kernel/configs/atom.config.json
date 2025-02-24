@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "katom",
-      "repo": "https://github.com/Kernel114514/kernel_xiaomi_pissarro",
+      "repo": "https://github.com/Kernel114514/android_kernel_xiaomi_mt6885",
       "branch": "lineage-21",
       "device": "atom",
-      "defconfig": "atom_defconfig"
+      "defconfig": "vendor/atom_user_defconfig"
     },
     "toolchains": [
       {
