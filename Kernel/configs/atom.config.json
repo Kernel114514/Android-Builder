@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "katom",
       "repo": "https://github.com/Kernel114514/android_kernel_xiaomi_mt6885",
-      "branch": "lineage-21",
+      "branch": "lineage-20.0",
       "device": "atom",
       "defconfig": "vendor/atom_user_defconfig"
     },
